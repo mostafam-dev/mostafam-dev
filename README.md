@@ -8,7 +8,6 @@ Most scrapers don't crash — they silently ship bad data for days.<br/>
 I build the systems that catch them, and teach others how to do the same.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafam-dev/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bravkohq)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@scrapem)
 [![Website](https://img.shields.io/badge/Scrapem.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scrapem.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa@scrapem.com)
