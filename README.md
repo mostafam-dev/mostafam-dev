@@ -125,7 +125,11 @@ Educational platform for data engineering and web scraping. Structured learning 
 ### 📝 Latest from Scrapem
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Building ScraperGuard: Architecture Decisions and Tradeoffs](https://scrapem.com/resources/building-scraperguard-case-study/)
+- [From Scripts to Systems: Designing Production Scraping Infrastructure](https://scrapem.com/resources/production-scraping-architecture/)
+- [Monitoring Playwright Scrapers with ScraperGuard](https://scrapem.com/resources/scraperguard-playwright-integration/)
+- [Integrating ScraperGuard with Scrapy: Add Scraper Monitoring in 5 Minutes](https://scrapem.com/resources/scraperguard-scrapy-integration/)
+- [DOM Diffing Deep Dive: How to Detect Structural Changes in Web Pages](https://scrapem.com/resources/dom-diffing-deep-dive/)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [**More articles on Scrapem.com**](https://scrapem.com)
 
